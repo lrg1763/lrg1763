@@ -37,10 +37,6 @@
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=lrg1763&theme=radical&hide_border=true" alt="GitHub streak" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrg1763&theme=radical" alt="Activity graph" width="100%" />
 </div>
 
