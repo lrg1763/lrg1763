@@ -10,7 +10,7 @@
 
 ---
 
-##  Мой технологический стек 
+##  Технологический стек который я активно изучаю
 
 ### **Frontend**
 <p>
@@ -46,23 +46,3 @@
 
 ---
 
-##  Что я сейчас изучаю
-
-###  Frontend
-- React Advanced Patterns
-- TypeScript
-- Next.js 14
-
-###  Backend
-- Node.js Performance
-- PostgreSQL Optimization
-- REST/GraphQL
-
-###  Tools
-- Docker
-- CI/CD
-- Testing (Jest, Cypress)
-
-###  Design
-- Figma Advanced
-- UI/UX Principles
