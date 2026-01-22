@@ -10,21 +10,21 @@
 
 ---
 
-##  Мой технологический стек
+##  Мой технологический стек 
 
 ### **Frontend**
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,redux" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" alt="Frontend technologies" />
 </p>
 
 ### **Backend & Databases**
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mongodb,nestjs" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,python,postgresql" alt="Backend technologies" />
 </p>
 
 ### **Tools & Other**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,figma,python,vscode,docker,linux" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,docker,linux" alt="Tools" />
 </p>
 
 ---
