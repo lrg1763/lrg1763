@@ -48,10 +48,21 @@
 
 ##  Что я сейчас изучаю
 
-```javascript
-const currentLearning = {
-  frontend: ['React Advanced Patterns', 'TypeScript', 'Next.js 14'],
-  backend: ['Node.js Performance', 'PostgreSQL Optimization', 'REST/GraphQL'],
-  tools: ['Docker', 'CI/CD', 'Testing (Jest, Cypress)'],
-  design: ['Figma Advanced', 'UI/UX Principles']
-};
+### 🎨 Frontend
+- React Advanced Patterns
+- TypeScript
+- Next.js 14
+
+### ⚙️ Backend
+- Node.js Performance
+- PostgreSQL Optimization
+- REST/GraphQL
+
+### 🛠️ Tools
+- Docker
+- CI/CD
+- Testing (Jest, Cypress)
+
+### 🎭 Design
+- Figma Advanced
+- UI/UX Principles
