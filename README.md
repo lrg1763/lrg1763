@@ -48,21 +48,21 @@
 
 ##  Что я сейчас изучаю
 
-### 🎨 Frontend
+###  Frontend
 - React Advanced Patterns
 - TypeScript
 - Next.js 14
 
-### ⚙️ Backend
+###  Backend
 - Node.js Performance
 - PostgreSQL Optimization
 - REST/GraphQL
 
-### 🛠️ Tools
+###  Tools
 - Docker
 - CI/CD
 - Testing (Jest, Cypress)
 
-### 🎭 Design
+###  Design
 - Figma Advanced
 - UI/UX Principles
