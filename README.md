@@ -29,16 +29,4 @@
 
 ---
 
-##  GitHub статистика
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lrg1763&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lrg1763&layout=compact&theme=radical&hide_border=true&langs_count=8" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lrg1763&theme=radical" alt="Activity graph" width="100%" />
-</div>
-
----
 
